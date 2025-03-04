@@ -169,3 +169,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+chamada_api_pontos.json
+json_folha.json
+json_folha.xlsx
